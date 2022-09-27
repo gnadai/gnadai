@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Private Project in segment of Credit Cards for Via Varejo** at **Invillia**
 
-- 🌱 I’m currently learning **Azure, Kotlin, Android**
+- 🌱 I’m currently learning **Azure, Kotlin, Android, Algorithm and Data Structures**
 
 - 👯 I’m looking to collaborate on **Comming Soon**
 
