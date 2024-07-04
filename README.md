@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnadai&label=Profile%20views&color=0e75b6&style=flat" alt="gnadai" /> </p>
 
-- 🔭 I’m currently working on **Private Project in segment of Credit Cards for Via Varejo** at **Invillia**
+- 🔭 I’m currently working on **Private Project in segment of Credit Cards for PicPay** at **Invillia**
 
-- 🌱 I’m currently learning **Azure, Kotlin, Android, Algorithm and Data Structures**
+- 🌱 I’m currently learning **Ruby, Kotlin, Algorithm and Data Structures**
 
 - 👯 I’m looking to collaborate on **Comming Soon**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Comming Soon](Comming Soon)
 
-- 💬 Ask me about **Java, .Net, Microservices, Architecture**
+- 💬 Ask me about **Java, .Net, PHP, NodeJS, Ruby, Microservices and Architecture**
 
 - 📫 How to reach me **gabriel1nadai1@gmail.com**
 
